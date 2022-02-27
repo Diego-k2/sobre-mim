@@ -1,0 +1,80 @@
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    text-align: center;
+    margin: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+li {
+    list-style: none;
+}
+
+
+.menu {
+    padding: 15px 0 20px 0;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.size-menu {
+    width: 80%;
+    margin: auto auto 5px auto;
+    padding-bottom: 20px;
+}
+
+.size-content {
+    width: 80%;
+    margin: auto;
+    padding: 15px 0 15px 0;
+    border-radius: 10px; 
+}
+
+.espacamento-maior, h2 {
+    padding: 15px;
+}
+
+.espacamento-menor, h3 {
+    padding: 10px;
+}
+
+.negrito {
+    font-weight: 800;    
+}
+
+.raio-imagem {
+    border-radius: 20px;
+}
+
+.descricao-fonte {
+    font-size: 12px;
+    font-style: italic;
+}
+
+.verde-escuro {
+    background: #7AD681;
+}
+
+.verde-claro {
+    background: #8AF293;
+}
+
+.amarelo-escuro {
+    background: #E0D769;
+}
+
+.amarelo-claro {
+    background: #EFF768;
+}
+
+.marrom-escuro {
+    background: #B07709;
+}
+
+.marrom-claro {
+    background: #A68008;
+}
